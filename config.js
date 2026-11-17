@@ -3,5 +3,5 @@ window.__SP_CONFIG__ = {
   assetOrigin: 'https://api.o7997.shop',
   siteKind: 'mobile',
   pcSiteUrl: 'https://iceweb.z23.web.core.windows.net',
-  mobileSiteUrl: 'https://iceh.z23.web.core.windows.net',
+  mobileSiteUrl: 'https://iceh-kondg.ondigitalocean.app',
 }
